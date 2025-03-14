@@ -21,7 +21,7 @@ public class Desafio {
         }
         return -1;
     }
-
+    //samuel no tiene ni puta idea
     // Método que invierte una cadena (al revés)
     public static String invertirCadena(String cadena) {
         String invertida = "";
